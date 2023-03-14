@@ -1,4 +1,4 @@
-READ ME
+# Process Scheduler
 
   This project focuses on creating a process scheduler for various processes that vary in duration and priority. 
   The program itself utilizes various data structures in Java to manage processes as they come into the program. 
